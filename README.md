@@ -15,6 +15,6 @@ Experimentos relizados:
 
 En este repositorio se encuentra el experimento con arquitectura CNN y los archivos de mlruns.
 
-En este repositorio se encuentra un archivo pdf con conclusiones e imágenes tomadas de mlflow.
+En el archivo Deep_Learning(1).pdf se encuentran algunas conclusiones, con las imágenes arrojadas por mlflow.
 
 Repositorio con experimento de Multilayer Percetron se encuentre en el siguiente link: 
