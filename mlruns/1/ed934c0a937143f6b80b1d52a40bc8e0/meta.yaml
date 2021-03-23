@@ -1,0 +1,15 @@
+artifact_uri: file:///users/emorbidoni/AprendizajeProfundo/mlruns/1/ed934c0a937143f6b80b1d52a40bc8e0/artifacts
+end_time: 1616464368073
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ed934c0a937143f6b80b1d52a40bc8e0
+run_uuid: ed934c0a937143f6b80b1d52a40bc8e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616463148923
+status: 3
+tags: []
+user_id: emorbidoni
