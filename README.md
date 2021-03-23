@@ -1,5 +1,12 @@
 # Aprendizaje Profundo
 
-Repositorio oficial de la materia optativa "Aprendizaje Profundo" (Deep Learning) de la Diplomatura en Ciencias de Datos de la UNC.
+Integrantes:
 
-Para comenzar a instalar y configurar el entorno de trabajo por favor seguir las instrucciones detalladas en el [Notebook 0](./0_set_up.ipynb).
+-Agustin Mauras Vélez
+-Emilio Morbidoni
+-Fernando Zarzosa Valdivia
+-Lucas Didone
+-Matías Bettera Marcat
+
+
+En este repositorio se encuentra el experimento con arquitectura CNN y los archivos de mlruns.
